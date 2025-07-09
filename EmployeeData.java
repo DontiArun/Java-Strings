@@ -43,7 +43,7 @@ class Emplyoee {
 }
  public class EmployeeData{
 	 public static void main(String[] args) {
-		 Emplyoee emp = new Emplyoee();
+		 Emplyoee emp = new Emplyoee();  //creating object to call methods
 		 emp.InputData();
 		 emp.ShowDetails();
 	 }
